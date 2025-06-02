@@ -136,11 +136,11 @@ async function listarIds() {
 // Execução de exemplo (descomente conforme necessário)
 (async () => {
   // listarIds();
-  // criarNotaComItens();
+  // criarNotaComItens(); // se quiser criar uma nova nota em um mês específico, e só adicionar o numero entre os () ex: criarNotaComItens(1) para janeiro
   // atualizarNota('COLE_UM_DOS_IDS_ACIMA');
   // excluirNota('COLE_UM_DOS_IDS_ACIMA');
   // transacoesExemplo();
   // consultaC1();
   // consultaC2('P001');
-  // consultaC3();
+  // consultaC3(); // Adicione o mes desejado, ex: consultaC3(1) para janeiro 
 })();
